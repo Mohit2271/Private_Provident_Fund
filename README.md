@@ -1,4 +1,3 @@
-# Private_Provident_Fund
 # Private Provident Fund (PPF) Management System
 
 A comprehensive Private Provident Fund (PPF) management system that allows users to create and manage PPF accounts, view transactions, apply for loans, and more. The system is built using SQLite for the database.
